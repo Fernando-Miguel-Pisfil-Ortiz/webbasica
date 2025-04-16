@@ -12,9 +12,3 @@ CREATE TABLE personas
   nombres VARCHAR(50)  
 )
 ```
-
-```js
-const objeto = () => {
-  console.log("hacer algo)
-}
-```
