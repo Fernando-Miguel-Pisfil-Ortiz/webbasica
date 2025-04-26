@@ -9,6 +9,6 @@
 CREATE TABLE personas
 (
   id INT PRIMARY KEY,
-  nombres VARCHAR(50)  
+  nombres VARCHAR(50)
 )
 ```
